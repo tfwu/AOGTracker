@@ -3,6 +3,7 @@
 ## Implementation of the papers
 Tianfu Wu , Yang Lu and Song-Chun Zhu, Online Object Tracking, Learning and Parsing with And-Or Graphs, arXiv ----.-----, TPAMI (under review).
 
+Written by Matt Tianfu Wu (tfwu@stat.ucla.edu)
 
 ## 0. System requirements:
 
